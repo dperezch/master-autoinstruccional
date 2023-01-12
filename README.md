@@ -2,6 +2,10 @@
 
 aplicación autoinstruccional
 
+*cordova 10.0
+*script *npm run icons* para iconos
+
+
 ## Install the dependencies
 ```bash
 yarn
