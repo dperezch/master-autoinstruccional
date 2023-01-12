@@ -1,0 +1,296 @@
+{
+    "curso": {
+        "titulo": "Full Stack Python",
+        "subtitulo": "Aquí va el subtitulo(no requerido)",
+        "descripcion": "Este curso te ayudará a desarrollar aptitudes y destrezas, al utilizar estos diversos lenguajes para programar en Python, construir aplicaciones en el Front End y también en el Back End.",
+        "modulos": [
+            {
+                "titulo": "INTRODUCCIÓN A PYTHON",
+                "subtitulo": "Módulo 1",
+                "numero": "1",
+                "descripcion": "Identificar los conceptos principales del lenguaje Python para la construcción de programas",
+                "descripcion2": "Cantidad de horas: 13 hr.",
+                "presentaciones": {
+                    "nombre": "presentación",
+                    "ruta": [
+                        "curso/modulo1/presentacion/presentacion1.html",
+                        "curso/modulo1/presentacion/presentacion2.html"
+                    ]
+                },
+                "lecciones": [
+                    {
+                        "titulo": "Lección 1",
+                        "numero": "1",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "¿Qué es Python?",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase1/clase1python_editada.mp4"
+                            },
+                            {
+                                "nombre": "Ejercicio Python",
+                                "descripcion": "Aquí va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase1/H5P_1_python.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título",
+                                "ruta": "curso/modulo1/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título",
+                                "ruta": "curso/modulo1/textos/texto+ejercicio.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo",
+                                "ruta": "curso/modulo1/ejercicios/ejercicio-alternativa1.html"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "Lección 2",
+                        "numero": "2",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "Clase 2",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase2/clase2.mp4"
+                            },
+                            {
+                                "nombre": "Ejercicio Clase 2",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase2/H5P2.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título",
+                                "ruta": "curso/modulo1/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título",
+                                "ruta": "curso/modulo1/textos/texto+links1.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo",
+                                "ruta": "curso/modulo1/ejercicios/ejercicio-alternativa2.html"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "Lección 3",
+                        "numero": "3",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "Clase 3",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase3/clase3python.mp4"
+                            },
+                            {
+                                "nombre": "Ejercicio Clase 3",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase3/H5P_3_python.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título",
+                                "ruta": "curso/modulo1/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título",
+                                "ruta": "curso/modulo1/textos/texto+video1.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo",
+                                "ruta": "curso/modulo1/ejercicios/lectura+ejercicio1.html"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "Lección 4",
+                        "numero": "4",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "Clase 4",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase4/clase4python.mp4"
+                            },
+                            {
+                                "nombre": "Ejercicio Clase 4",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo1/videos/Clase4/H5P_4_python.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título",
+                                "ruta": "curso/modulo1/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título",
+                                "ruta": "curso/modulo1/textos/texto+video1.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo",
+                                "ruta": "curso/modulo1/ejercicios/lectura+ejercicio2.html"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "titulo": "INTRODUCCIÓN A FLASK",
+                "subtitulo": "Módulo 2",
+                "numero": "2",
+                "descripcion": "Construir una aplicación utilizando  frameworks Flask",
+                "descripcion2": "Cantidad de horas: 13 hr.",
+                "presentaciones": {
+                    "nombre": "presentación",
+                    "ruta": [
+                        "curso/modulo2/presentacion/presentacion.html"
+                    ]
+                },
+                "lecciones": [
+                    {
+                        "titulo": "Lección 1",
+                        "numero": "1",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "Clase 1 Flask",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo2/videos/clase1/clase1flask.mp4"
+                            },
+                            {
+                                "nombre": "Ejercicio Flask",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo2/videos/clase1/H5P_1_flask.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título de la imagen",
+                                "ruta": "curso/modulo2/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título del texto",
+                                "ruta": "curso/modulo2/textos/texto1.html"
+                            },
+                            {
+                                "titulo": "Aquí va el título del texto",
+                                "ruta": "curso/modulo2/textos/texto2.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo del ejercicio",
+                                "ruta": "curso/modulo2/ejercicios/ejercicio1.html"
+                            },
+                            {
+                                "nombre": "Aquí va el titulo del ejercicio",
+                                "ruta": "curso/modulo2/ejercicios/ejercicio2.html"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "Lección 2",
+                        "numero": "2",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "Clase 2 Flask",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo2/videos/clase2/clase2flask.mp4"
+                            },
+                            {
+                                "nombre": "Ejercicio 2 Flask",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo2/videos/clase2/H5P_2_flask.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título de la imagen",
+                                "ruta": "curso/modulo2/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título del texto",
+                                "ruta": "curso/modulo2/textos/texto3.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo del ejercicio",
+                                "ruta": "curso/modulo2/ejercicios/ejercicio3.html"
+                            },
+                            {
+                                "nombre": "Aquí va el titulo del ejercicio",
+                                "ruta": "curso/modulo2/ejercicios/ejercicio4.html"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "Lección 3",
+                        "numero": "3",
+                        "subtitulo": "Aquí va el subtitulo (no requerido)",
+                        "videos": [
+                            {
+                                "nombre": "Clase 3 Flask",
+                                "descripcion": "Aqui va la descripción",
+                                "ruta": "curso/modulo2/videos/clase3/clase3flask.mp4"
+                            }
+                        ],
+                        "imagenes": [
+                            {
+                                "nombre": "Aquí va el título de la imagen",
+                                "ruta": "curso/modulo2/imagenes/imagenes1.html"
+                            }
+                        ],
+                        "textos": [
+                            {
+                                "titulo": "Aquí va el título del texto",
+                                "ruta": "curso/modulo2/textos/texto4.html"
+                            }
+                        ],
+                        "ejercicios": [
+                            {
+                                "nombre": "Aquí va el titulo del ejercicio",
+                                "ruta": "curso/modulo2/ejercicios/ejercicio5.html"
+                            },
+                            {
+                                "nombre": "Aquí va el titulo del ejercicio",
+                                "ruta": "curso/modulo2/ejercicios/ejercicio6.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
